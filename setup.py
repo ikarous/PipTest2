@@ -11,6 +11,6 @@ setup(
       author='William Norris',
       author_email='ike.norris@gmail.com',
       license='MIT',
-      packages=['piptest1'],
+      packages=['test2'],
       zip_safe=False
 )
